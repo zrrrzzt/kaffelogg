@@ -1,0 +1,32 @@
+{
+  "name": "kaffelogg",
+  "version": "0.0.1",
+  "description": "Log the coffee you drink",
+  "private": true,
+  "author": {
+  "name": "Geir Gåsodden",
+  "email": "geir.gasodden@pythonia.no",
+  "url": "https://github.com/zrrrzzt"
+},
+  "main": "index.js",
+  "bin": {
+    "kaffelogg": "cli.js"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/zrrrzzt/kaffelogg.git"
+  },
+  "bugs": {
+    "url": "http://github.com/zrrrzzt/kaffelogg/issues"
+  }
+}
