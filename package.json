@@ -4,10 +4,10 @@
   "description": "Log the coffee you drink",
   "private": true,
   "author": {
-  "name": "Geir Gåsodden",
-  "email": "geir.gasodden@pythonia.no",
-  "url": "https://github.com/zrrrzzt"
-},
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
   "main": "index.js",
   "bin": {
     "kaffelogg": "cli.js"
@@ -28,5 +28,11 @@
   },
   "bugs": {
     "url": "http://github.com/zrrrzzt/kaffelogg/issues"
+  },
+  "dependencies": {
+    "minimist": "^0.1.0",
+    "mocha": "^1.20.1",
+    "prompt": "^0.2.13",
+    "request": "^2.36.0"
   }
 }
