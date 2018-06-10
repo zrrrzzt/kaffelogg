@@ -31,8 +31,8 @@
   },
   "dependencies": {
     "minimist": "^1.2.0",
-    "mocha": "^5.0.0",
+    "mocha": "^5.2.0",
     "prompt": "^1.0.0",
-    "request": "^2.36.0"
+    "request": "^2.87.0"
   }
 }
