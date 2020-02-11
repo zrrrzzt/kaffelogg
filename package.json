@@ -33,6 +33,6 @@
     "minimist": "1.2.0",
     "mocha": "7.0.1",
     "prompt": "1.0.0",
-    "request": "2.88.0"
+    "request": "2.88.2"
   }
 }
