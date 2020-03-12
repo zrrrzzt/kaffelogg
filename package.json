@@ -30,7 +30,7 @@
     "url": "http://github.com/zrrrzzt/kaffelogg/issues"
   },
   "dependencies": {
-    "minimist": "1.2.4",
+    "minimist": "1.2.5",
     "mocha": "7.1.0",
     "prompt": "1.0.0",
     "request": "2.88.2"
